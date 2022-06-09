@@ -1,0 +1,54 @@
+.fundopreto {
+  background-color: black;
+  height: 1500px;
+  width: 600px;
+  margin: 0 auto;
+}
+
+#cabecalho {
+  width: 600px;
+  height: 153px;
+}
+
+#frase1 {
+  width: 439;
+  height: 68;
+  color: #00a857;
+  margin-left: 60px;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Helvetica";
+  line-height: 35px;
+}
+#frase2 {
+  width: 89px;
+  height: 23px;
+  color: #ffffff;
+  font-family: "Helvetica";
+  font-weight: 700;
+  font-size: 18px;
+  margin: 60px 451px 60px 60px;
+}
+#frase3 {
+  color: #ffffff;
+  margin-left: 60px;
+  width: 453px;
+  height: 71px;
+  font-weight: 400;
+  font-family: "Helvetica";
+  margin: 60px 87px 60px 60px;
+}
+#carteiraimg {
+  margin: 77px 30px 20px 60px;
+  width: 56px;
+  height: 56px;
+}
+#saques {
+  color: #ffffff;
+  font-family: "Helvetica";
+  font-weight: 700;
+  font-size: 18px;
+  width: 317;
+  height: 23px;
+  margin: 60px 137px 41px 30px;
+}
