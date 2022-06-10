@@ -1,8 +1,11 @@
-.fundopreto {
+#fundopreto {
   background-color: black;
-  height: 1500px;
+  height: 1800px;
   width: 600px;
   margin: 0 auto;
+}
+.top{
+  width: 600px;
 }
 
 #cabecalho {
@@ -38,17 +41,32 @@
   font-family: "Helvetica";
   margin: 60px 87px 60px 60px;
 }
-#carteiraimg {
-  margin: 77px 30px 20px 60px;
+
+.imgs1{
   width: 56px;
   height: 56px;
+  margin: 0px 0px 0px 0px;
 }
-#saques {
+
+.frasesimg1 {
+  margin: 0;
   color: #ffffff;
   font-family: "Helvetica";
-  font-weight: 700;
   font-size: 18px;
-  width: 317;
-  height: 23px;
-  margin: 60px 137px 41px 30px;
+  font-weight: 700;
+}
+#fundobranco {
+  background-color: white;
+  height: 1800px;
+  width: 600px;
+  margin: 0 auto;
+}
+#original{
+  width: 540px;
+  height: 96.72px;
+  margin: 30px 30px 0 30px;
+}
+#sigaobanc0{
+  width: 185px;
+  height: 40px;
 }
